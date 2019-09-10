@@ -1,0 +1,37 @@
+/* intestazione pagina */
+body {
+  background-image: url(../img/sfondo.jpg);
+}
+
+.titolo {
+  color: white;
+  font-size: 20px
+}
+
+/* searchbar + unread section */
+h3 {
+  color: white;
+}
+
+.trenta {
+  background-color: orange;
+  border-radius: 50%
+}
+
+.blocco1 {
+  box-sizing: border-box;border: solid 1px;
+  background-color: lightgrey;
+}
+.grigio {
+  color: grey;
+}
+
+.blocco2 {
+  box-sizing: border-box;border: solid 1px;
+  background-color: white;
+}
+/* credits section */
+.credits {
+  color: white;
+  text-align: center;
+}
